@@ -1,0 +1,12 @@
+{
+  "image_size": 24,
+  "batch_size": 64,
+  "epochs": 100,
+  "learning_rate": 0.001,
+  "validation_split": 0.2,
+  "num_channels": 1,
+  "patience": 10,
+  "dataset_dir": "C:/Users/pc/Desktop/Sign language new/preprocessed_dataset",
+  "model_save_path": "C:/Users/pc/Desktop/Sign language new/model.keras",
+  "labels_save_path": "C:/Users/pc/Desktop/Sign language new/labels.json"
+}
